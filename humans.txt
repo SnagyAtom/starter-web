@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Snagy Atom <twitter>
+    Snagy Atom
+    example@email.com
+    WORKINGPROFILE Engineer
 
 # THANKS
 
