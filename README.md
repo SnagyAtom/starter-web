@@ -18,3 +18,4 @@ Adding Git comparison videos
 
 ## GitHub content
 Comparison with repository
+Adding new lectures about stash.
