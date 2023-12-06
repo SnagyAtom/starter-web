@@ -3,6 +3,7 @@
 
 Hi, I am modifying this file for the project on master.
 
+Hi, I am going to insert conflicts in my feature branch.
 
 # TEAM
 
