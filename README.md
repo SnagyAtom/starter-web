@@ -7,6 +7,7 @@ A lot of lectures are already submitted.
 ## GIT & GitHub Training
 This is an aight course, we will see at the end.
 Adding Git rebase lectures.
+So much work has been completed because of this project.
 
 ## Contribution
 Fork the repo and raise pull request for review
