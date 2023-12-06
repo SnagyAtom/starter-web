@@ -8,7 +8,8 @@ Hi, I am modifying this file for the project on master.
 
     Snagy Atom
     example@email.com
-    Software Engineer
+    Software Engineer III
+    IT Development
 
 # THANKS
 
