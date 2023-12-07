@@ -6,6 +6,8 @@ Hi, I am modifying this file for the project on master.
 Hi, I am going to insert conflicts in my feature branch.
 
 Doing some changes in local
+Adding important notes on git stash
+
 
 # TEAM
 
