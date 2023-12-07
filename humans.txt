@@ -25,3 +25,4 @@ Adding important notes on git stash
     HTML5, CSS3, Angular
     jQuery, Modernizr
     machine Learning, AWS, Azure Cloud
+    AWS solutions architect developer
